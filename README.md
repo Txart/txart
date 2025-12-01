@@ -1,5 +1,5 @@
 # Hello, interwebs 👋
-I am a scientific programmer from Spain.
+I am a scientific programmer.
 
 Once a Theorietical Physicist, then a Ecosystem Modeller, and now Data Scientist, and Software Developer.
 
